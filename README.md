@@ -22,4 +22,4 @@ __Assignment 9__ - DNA string complement and reverse complement finder, Pig Lati
 
 __Assignment 10__ - Store inventory manager
 
-__Assignment 12__ - Reobust Pet Store inventory manager
+__Assignment 12__ - Robust Pet Store inventory manager
